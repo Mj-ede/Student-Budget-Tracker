@@ -1,0 +1,21 @@
+The roadmap for my budger tracker project is as follows: 
+1. Initial Setup and Planning
+   - Define project scope and objectives
+   - Set up version control (GitHub repository)
+   - Create a project timeline with milestones
+2. User Interface Design
+   - Design wireframes for the application
+    - Choose a color scheme and typography
+    - Develop a responsive layout for different devices
+3. Core Functionality Development
+   - Implement user input for income and expenses
+    - Create budget calculation algorithms
+    - Develop data storage solutions (local storage or database)
+4. Additional Features
+    - Add expense categorization and tracking
+    - Implement visualizations (emoji-based responses)
+    - Set up notifications and reminders for budget limits
+5. Testing and Debugging
+    - Conduct unit testing for individual components
+    - Perform integration testing for overall functionality
+    - Fix bugs and optimize performance
